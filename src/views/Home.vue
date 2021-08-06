@@ -18,8 +18,5 @@ export default {
 </script>
 
 <style lang="scss">
-@import "~@/assets/styles/test.scss";
-body {
-  background: $pink;
-}
+
 </style>
