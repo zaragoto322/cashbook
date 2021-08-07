@@ -1,7 +1,11 @@
 <template>
     <div>
-        404 Not Found
-    <Nav />
+        <div>
+            404 Not Found
+        </div>
+        <div>
+             <router-link to="/">返回首页</router-link>
+        </div>
     </div>
 </template>
 
